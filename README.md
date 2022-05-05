@@ -1,4 +1,4 @@
-# TheGame
+## TheGame
 # About project:
 Easy game, which I wrote with small guide help 
 # Technologies:
